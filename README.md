@@ -2,7 +2,7 @@
 
 ![](https://github.com/chessgame/liuheChess/blob/master/bg.png)
 
-###(https://www.baidu.com)###
+
 
 ### 六洲棋
 
